@@ -6,3 +6,7 @@ class SuralarInfo(StatesGroup):
 
 class SearchSura(StatesGroup):
     sura_name = State()
+    oyat = State()
+
+class Botqw(StatesGroup):
+    fikir = State()

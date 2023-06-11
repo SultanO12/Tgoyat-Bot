@@ -25,3 +25,5 @@ main_markup.add(KeyboardButton("Fikr bildirish✍️"))
 oyatinfo = ReplyKeyboardMarkup(resize_keyboard=True)
 oyatinfo.add(back, main)
 
+main_menu = ReplyKeyboardMarkup(resize_keyboard=True)
+main_menu.add(main)

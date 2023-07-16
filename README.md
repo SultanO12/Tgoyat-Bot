@@ -1,2 +1,2 @@
 # Tgoyat-Bot
-Ushbu bot Qur'ondan har qanday suraning tarjimasini topishga yordam beradi
+This bot will help you find a translation of any surah from the Quran
